@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="position" />
+    <item type="id" name="arsId" />
+    <item type="id" name="stName" />
+    <item type="id" name="distance" />
+    <item type="id" name="gpsX" />
+    <item type="id" name="gpsY" />
+    <item type="id" name="subCode" />
+    <item type="id" name="subLine" />
+    <item type="id" name="subStName" />
+
+</resources>

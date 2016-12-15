@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">막차알리미</string>
+    <string name="stationUrl">http://openAPI.seoul.go.kr:8088/714d46765831326136396b486a7256/xml/SearchInfoBySubwayNameService/1/5/</string>
+    <string name="infoUrl">http://openAPI.seoul.go.kr:8088/424465487831326133346a414f546e/xml/SearchLastTrainTimeByIDService/1/5/</string>
+    <string name="map_key">2ca244ca1e09f4b680a4703751827d5f</string>
+    <string name="api_key">UQtwY%2Fa6n14Q8aHq8vBHYQiWxrgMEgif7qZHgm%2BJ%2F50lZMwRYMNgvzbJEgJlmk55UmZlwGFNj3ssSYyve2YVKg%3D%3D</string>
+    <string name="url_station_gps">http://ws.bus.go.kr/api/rest/stationinfo/getStationByPos?ServiceKey=ztOIlEvriKvi22UR195sIkJAshZEXfOiSoNDw7y6vtg7KjJC4y7fwVulXC9%2FSZU9dZdixpk4XrIQx%2B%2BOnx4dYw%3D%3D</string>
+    <string name="url_route_by_station">http://ws.bus.go.kr/api/rest/stationinfo/getRouteByStation?ServiceKey=ztOIlEvriKvi22UR195sIkJAshZEXfOiSoNDw7y6vtg7KjJC4y7fwVulXC9%2FSZU9dZdixpk4XrIQx%2B%2BOnx4dYw%3D%3D</string>
+    <string name="url_station_by_route">http://ws.bus.go.kr/api/rest/busRouteInfo/getStaionByRoute?ServiceKey=ztOIlEvriKvi22UR195sIkJAshZEXfOiSoNDw7y6vtg7KjJC4y7fwVulXC9%2FSZU9dZdixpk4XrIQx%2B%2BOnx4dYw%3D%3D</string>
+    <string name="url_station_by_id">http://ws.bus.go.kr/api/rest/stationinfo/getStationByUid?ServiceKey=ztOIlEvriKvi22UR195sIkJAshZEXfOiSoNDw7y6vtg7KjJC4y7fwVulXC9%2FSZU9dZdixpk4XrIQx%2B%2BOnx4dYw%3D%3D</string>
+</resources>
